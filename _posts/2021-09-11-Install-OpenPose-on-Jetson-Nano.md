@@ -1,7 +1,7 @@
-
 ---
 layout: post
 title: Install Openpose on Jetson Nano
+gh-badge: [star, fork, follow]
 tags: [Jetson Nano, OpenPose]
 ---
 
