@@ -1,10 +1,11 @@
-# Install Openpose on Jetson Nano
-
+---
+layout: post
+title: Install Openpose on Jetson Nano
+gh-badge: [star, fork, follow]
+tags: [Jetson Nano, OpenPose]
 ---
 
-## layout: post
-title: Install Openpose on Jetson Nano
-tags: [Jetson Nano, OpenPose]
+# Install Openpose on Jetson Nano
 
 ## Giới thiệu
 
