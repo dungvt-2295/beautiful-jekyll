@@ -1,5 +1,11 @@
 # Install Openpose on Jetson Nano
 
+---
+
+## layout: post
+title: Install Openpose on Jetson Nano
+tags: [Jetson Nano, OpenPose]
+
 ## Giới thiệu
 
 Xin chào mọi người, buổi hôm nay mình sẽ hướng dẫn các cài đặt thư viện OpenPose trên máy tính nhúng Jetson Nano.
