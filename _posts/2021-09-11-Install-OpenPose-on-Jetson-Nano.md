@@ -32,7 +32,7 @@ Mình chỉ dám xin tóm tắt các bước của OpenPose như dưới đây:
 - Ở cuối mỗi vòng lặp stage sẽ có tính toán Loss để tính toán đến khi feature maps và PAF đạt tối ưu.
 - Kiến trúc mạng neuron chứa các layer Convolution có kernel 1x1 hoặc 3x3
 
-![openposemulti-CNN.png](openposemulti-CNN.png)
+![openposemulti-CNN.png](/img/openposemulti-CNN.png)
 
 ## Cài đặt OpenPose trên Jetson Nano 2
 
@@ -82,9 +82,9 @@ Mình chỉ dám xin tóm tắt các bước của OpenPose như dưới đây:
 
     Sau khi Configure xong, thì sẽ tick chọn vào `BUILD PYTHON` và bỏ tick ở `USE_CUDNN` như 2 hình dưới đây. Sau đó nhấn Generate để tạo Makefile
 
-    ![cmake1.png](cmake1.png)
+    ![cmake1.png](/img/cmake1.png)
 
-    ![cmake2.png](cmake2.png)
+    ![cmake2.png](/img/cmake2.png)
 
 - cd vào folder build và chạy các lệnh sau để cài openpose
 
